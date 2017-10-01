@@ -11,4 +11,5 @@ class QECampX:
 
     @property
     def score_average(self):
+        """Return annual score average."""
         return self.score / 12

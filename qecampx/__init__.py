@@ -1,1 +1,1 @@
-"""QECampX demo files."""
+"""QECampX demo module."""
