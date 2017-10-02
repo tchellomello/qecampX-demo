@@ -19,4 +19,4 @@ class QECampXBaseTest(unittest.TestCase):
 
         self.assertGreater(data1.score_average, 1)
         self.assertEqual(data2.score, 2)
-        self.assertTrue(True)
+        self.assertTrue(False)
